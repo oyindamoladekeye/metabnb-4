@@ -14,8 +14,8 @@ function App() {
         <Navbar />
       </div>
       <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="placetostay" element={<Placetostay />}/>
+        <Route path="/metabnb-4" element={<Home />}/>
+        <Route path="/placetostay" element={<Placetostay />}/>
       </Routes>
       <Footer />
     </div>
