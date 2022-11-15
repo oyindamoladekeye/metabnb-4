@@ -156,4 +156,31 @@ input::placeholder{
         /* width:auto; */
         float: left;
     }
+    .btn-a{
+        padding-inline: 1.4rem;
+        padding-top: 1rem;
+        padding-bottom: 0.8rem;
+    }
+    button{
+        width:auto
+    }
+    .fourpics{
+        width:70vw
+    }
+    h1{
+        font-size:7vw
+    }
+    .header{
+        padding-inline: 2rem;
+    }
+    .btn-b{
+        width:25vw
+    }
+    input{
+      width:auto
+    }
+    li{
+        width:20vh
+    }
+    
 }

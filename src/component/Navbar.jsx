@@ -10,24 +10,19 @@ function Navbar() {
               <div className="navlogo">
                   <img src={logo} alt="" />
               </div>
-              {/* <div className="menu-icon">
-                <div className="menu"></div>
-                <div className="menu"></div>
-                <div className="menu"></div>
-              </div> */}
               <div className="nav-item">
                 <ul>
                     <li>
-                      <Link to= "/">Home</Link>
+                      <Link to= "/metabnb-4">Home</Link>
                     </li>
                     <li>
                       <Link to= "/placetostay" className="place">Place to stay</Link>
                     </li>
                     <li>
-                      <Link to= "/">NFTs</Link>
+                      <Link to= "#">NFTs</Link>
                     </li>
                     <li>
-                      <Link to= "/">Community</Link>
+                      <Link to= "#">Community</Link>
                     </li>
                 </ul>
                 <div>
