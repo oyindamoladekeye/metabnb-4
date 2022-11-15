@@ -81,6 +81,9 @@
   max-width:20rem;
     }
     .link{
-        width:80vw
+        width:70vw
+    }
+    .link a {
+        font-size: 1rem;
     }
 }
