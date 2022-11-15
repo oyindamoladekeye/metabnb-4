@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
+.header{
+    padding-inline: 6.25rem;
+    width:100%;
+    max-width: 100vw;
+    padding-top:2.7rem;
+}
+/* Navbar styles */
+nav{
+    height:48px;
+    background-color: white;
+    position: relative;
+}
+.navbar{
+    width:100%;
+    max-width: 1240px;
+    display: flex;
+    align-items: center;
+    gap:8vw;
+}
+.nav-item{
+    display:flex;    
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.fourpics{
+    width:50vw;
+    max-width:476px;
+    height:100%
+}
+.menu{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+.menu-icon{
+    display:none
+}
+li a{
+    text-decoration: none;
+    color:#434343;
+    font-size:1.25rem;
+    font-family: 'Red Rose', cursive;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    max-width:490px;
+    width:100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    color:white;
+    background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
+    border:0
+}
+.btn-a{
+    padding-inline:26.5px;
+    padding-top:15px;
+    padding-bottom:13px;
+    border-radius:10px;
+    justify-content: flex-end;
+}
+button{
+    width:10.625rem;
+    font-family: 'Red Rose', cursive;
+}
+button:hover{
+    cursor: pointer;
+}
+.content{
+    padding-top:125px;
+    display: flex;
+}
+span{
+    color:#A02279;
+}
+h1{
+    font-size: 4.5vw;
+    font-family: 'Red Rose', cursive;
+
+}
+.detail{
+    display: flex;
+    flex-direction: column;
+    gap:48px;
+    font-size:24px;
+    font-family: 'Red Rose', cursive;
+}
+input, .btn-b{
+    height:54.08px;
+    width:27vw
+}
+.btn-b{
+  width:15.8vw;
+  border-radius: 0 8px 8px 0
+}
+input{
+    border-radius: 8px 0 0 8px;
+    border:1px solid #a3a3a3
+}
+input::placeholder{
+    font-family: "Red Rose";
+}
+
+@media screen and (max-width:1025px) {
+    .navbar{
+        flex-direction: column;
+    }
+    .content{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center
+    }
+    .fourpics{
+        display: flex;
+        justify-content:center
+    }
+
+}

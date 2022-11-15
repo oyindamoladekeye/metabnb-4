@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
+footer{
+    background-color: #1d1d1e;
+    height:322px;
+    max-width:1440px;
+    width:100%;
+    padding-inline: 6.25rem;
+    padding-top:3.9rem;
+    display:flex;
+    justify-content: space-between;
+    color:white;
+    font-family: "Red Rose";
+}
+h2{
+    font-size:18px
+}
+h5{
+    font-size: 0.9em;
+    font-weight: 400;
+    color: #F1F3F9;
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    gap:3rem; 
+}
+.flogo{
+    display: flex;
+    flex-direction: column;
+    gap:6.2rem
+}
+.social{
+    display: flex;
+    gap:32px
+}
+.location{
+    display:flex;
+    flex-direction: column;
+    gap:23px
+}
+.loc{
+    display: flex;
+    flex-direction: column;
+    gap:16px
+}
+
+@media screen and (max-width:1024px) {
+    
+}

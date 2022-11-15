@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
+.locations{
+    width:100%; 
+    max-width: 1440px;
+    padding-inline: 6.25rem;
+    font-family: "Red Rose";
+   margin:6.25rem 0 3.12rem 0
+}
+.locations ul{
+    display: flex;
+    align-items: center;
+    width:100%;
+    max-width: 1240px;
+    height:50px;
+    text-align: center;
+
+}
+.locations ul li{
+    width: 100%;  
+    font-size:1.25rem;
+    color: #434343;
+}
+.locations ul li:hover{
+    cursor: pointer;
+}
+.setting{
+    display: flex;
+    gap:2em;
+    margin-left:1em;
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    border: 1px solid #B4B4B4;
+    border-radius: 8px;
+    padding:13px
+}
