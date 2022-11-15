@@ -1,7 +1,16 @@
+import About from "../component/About";
+import Brands from "../component/Brands";
+import Header from "../component/Header";
+import "../styles/home.css";
+import Card from "../component/Card";
 function Home() {
     return ( 
-        <>
-        <div>hello</div></>
+      <div>
+        <Header />
+        <Brands />
+        <Card />
+        <About />
+      </div>
      );
 }
 
