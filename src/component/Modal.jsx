@@ -6,7 +6,6 @@ function Modal({open , onClose}) {
     if (!open) return null
     return (  
         <div className="overlay">
-            <div className="back"></div>
             <div className="connect-wallet">
                 <div className="close">
                     <h3>Connect Wallet</h3>

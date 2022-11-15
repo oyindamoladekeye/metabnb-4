@@ -182,5 +182,8 @@ input::placeholder{
     li{
         width:20vh
     }
+    .btn-a{
+        margin-left:0
+    }
     
 }
