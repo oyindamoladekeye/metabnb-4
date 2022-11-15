@@ -79,7 +79,7 @@ span{
     color:#A02279;
 }
 h1{
-    font-size: 4.5vw;
+    font-size: 3.25rem;
     font-family: 'Red Rose', cursive;
 
 }
@@ -105,6 +105,8 @@ input{
 input::placeholder{
     font-family: "Red Rose";
 }
+
+
 @media screen and (max-width:1181px){  
     .btn-b{
         width:20vw;
