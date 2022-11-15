@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/metabnb-4/static/css/main.db1e4d8c.css",
+    "main.js": "/metabnb-4/static/js/main.0bbbd78a.js",
+    "static/js/787.106fc62c.chunk.js": "/metabnb-4/static/js/787.106fc62c.chunk.js",
+    "static/media/threepics.jpg": "/metabnb-4/static/media/threepics.66798c3b2a1e0a72c611.jpg",
+    "static/media/four-pics.jpg": "/metabnb-4/static/media/four-pics.4751e8b77f19299767c2.jpg",
+    "static/media/img6.jpg": "/metabnb-4/static/media/img6.c6ea2953ab76460f3ae4.jpg",
+    "static/media/img1.jpg": "/metabnb-4/static/media/img1.f643e44edce8190b0e09.jpg",
+    "static/media/img3.jpg": "/metabnb-4/static/media/img3.1c7c4c7a16a200bc6947.jpg",
+    "static/media/img11.jpg": "/metabnb-4/static/media/img11.d6d17e188ffc5c7fadaa.jpg",
+    "static/media/img14.jpg": "/metabnb-4/static/media/img14.043242d5dc9f591df702.jpg",
+    "static/media/img8.jpg": "/metabnb-4/static/media/img8.6bc699a28a5b9f20f309.jpg",
+    "static/media/img12.jpg": "/metabnb-4/static/media/img12.c725feac96165a54259a.jpg",
+    "static/media/img9.jpg": "/metabnb-4/static/media/img9.d600be224c26ac674f38.jpg",
+    "static/media/img13.jpg": "/metabnb-4/static/media/img13.b311808ecce27afe9496.jpg",
+    "static/media/img16.jpg": "/metabnb-4/static/media/img16.db7a6079bf05b9838428.jpg",
+    "static/media/img4.jpg": "/metabnb-4/static/media/img4.d058fd0da7197b879492.jpg",
+    "static/media/img15.jpg": "/metabnb-4/static/media/img15.ecf1942bf6a1e8a11381.jpg",
+    "static/media/img2.jpg": "/metabnb-4/static/media/img2.5c7e642ba0dd039ce838.jpg",
+    "static/media/img5.jpg": "/metabnb-4/static/media/img5.71d670b8ae154a787dde.jpg",
+    "static/media/img7.jpg": "/metabnb-4/static/media/img7.b982f4bdeeffd8fcbcc5.jpg",
+    "static/media/img10.jpg": "/metabnb-4/static/media/img10.b8efb03ce59d236d89ae.jpg",
+    "static/media/logo.jpg": "/metabnb-4/static/media/logo.3db309bf9ef0525b3f25.jpg",
+    "static/media/opensea.jpg": "/metabnb-4/static/media/opensea.4bf4d8c8b71d6396f984.jpg",
+    "static/media/mtoken.jpg": "/metabnb-4/static/media/mtoken.6d63db65292c3349cfd8.jpg",
+    "static/media/mmask.jpg": "/metabnb-4/static/media/mmask.9a36965e5478b9a5b188.jpg",
+    "static/media/logofooter.jpg": "/metabnb-4/static/media/logofooter.017b1df0b27ec4503bf8.jpg",
+    "index.html": "/metabnb-4/index.html",
+    "main.db1e4d8c.css.map": "/metabnb-4/static/css/main.db1e4d8c.css.map",
+    "main.0bbbd78a.js.map": "/metabnb-4/static/js/main.0bbbd78a.js.map",
+    "787.106fc62c.chunk.js.map": "/metabnb-4/static/js/787.106fc62c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1e4d8c.css",
+    "static/js/main.0bbbd78a.js"
+  ]
+}
