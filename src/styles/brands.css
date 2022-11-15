@@ -13,3 +13,9 @@
 max-width:222px;
 width:100%
 }
+@media screen and (max-width:768px){
+    .brands{
+        flex-direction: column;
+        height:auto
+    }
+}

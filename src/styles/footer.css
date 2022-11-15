@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
 footer{
     background-color: #1d1d1e;
-    height:322px;
     max-width:1440px;
     width:100%;
     padding-inline: 6.25rem;
@@ -44,6 +43,19 @@ h5{
     gap:16px
 }
 
-@media screen and (max-width:1024px) {
-    
+@media screen and (max-width:768px) {
+    footer{
+        flex-direction:row;
+        align-items: center;
+        flex-wrap: wrap;
+        gap:3rem;
+        padding-bottom: 20px;
+    }
+    .location{
+        gap:0;
+        flex-direction: column;
+    }
+    .flogo , .all{
+        gap:2rem
+    }
 }

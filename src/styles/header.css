@@ -105,11 +105,21 @@ input{
 input::placeholder{
     font-family: "Red Rose";
 }
-
-@media screen and (max-width:1025px) {
-    .navbar{
+@media screen and (max-width:1181px){  
+    .btn-b{
+        width:20vw;
+        border-radius: 8px 8px 8px 8px;
+        margin-top: 10px;
+      }
+      .btn-a{
+        margin-left:10px
+      }
+      .navbar{
         flex-direction: column;
     }
+}
+
+@media screen and (max-width:1024px) {
     .content{
         display: flex;
         flex-direction: column-reverse;
@@ -119,5 +129,31 @@ input::placeholder{
         display: flex;
         justify-content:center
     }
+    .btn-b{
+        width:15.8vw;
+        border-radius: 0 8px 8px 0
+      }
 
+}
+@media screen and (max-width:768px) {
+    .btn-b{
+        width:15.8vw;
+        border-radius: 0 8px 8px 0
+      }
+
+}
+@media screen and (max-width:768px) {
+    li{
+        width:100%
+    }
+    ul{
+        display: block;
+    }
+}
+@media screen and (max-width:480px){
+    .nav-item{
+        gap:10px;
+        /* width:auto; */
+        float: left;
+    }
 }
