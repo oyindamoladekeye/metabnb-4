@@ -155,7 +155,7 @@ input::placeholder{
 @media screen and (max-width:480px){
     .nav-item{
         gap:10px;
-        /* width:auto; */
+        width:auto;
         float: left;
     }
     .btn-a{
